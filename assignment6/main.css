@@ -1,0 +1,19 @@
+fieldset{
+    border-color:rgb(204, 71, 94) ;
+    border-width: 5px;
+}
+h1{
+    color:white ;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(204, 71, 94);
+    padding: 5px;
+    margin: 5px;
+}
+#myForm , #myLogin{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}

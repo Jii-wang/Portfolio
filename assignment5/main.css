@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color:rgb(204, 71, 94) ;
+    color: white;
+    margin-top: 0px;
+}
+#text1{
+    background-color:rgb(238, 169, 180);
+    width: 90%;
+    margin: 50px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.bt{
+    text-align: center;
+
+}
+h2{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(204, 71, 94) ;
+    text-align: center;
+}
